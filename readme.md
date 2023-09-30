@@ -2,7 +2,7 @@
 
 ### Student: Deandre Sugandhi
 
-[Website](./src/index.html)<br>
+[Website](https://deandre-sugandhi-t1-a2.vercel.app/)<br>
 [Github Repo](https://github.com/deandresugandhi/DeandreSugandhi_T1A2)
 
 ## Table of Contents
@@ -158,7 +158,7 @@ Screenshots are taken full-size.
 - Website: HTML, CSS, JavaScript
 - Sitemap: [draw.io](https://app.diagrams.net/)
 - Wireframe: [draw.io](https://app.diagrams.net/)
-- Deployment:
+- Deployment: [Vercel](https://vercel.com/)
 - Slide deck: [Microsoft Power Point](https://www.microsoft.com/en-au/microsoft-365/powerpoint)
 - Icons: [Icon Finder](https://www.iconfinder.com/)
 - Royalty-Free Stock Images: [Unsplash](https://unsplash.com/)
